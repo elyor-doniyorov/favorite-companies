@@ -18,7 +18,7 @@ const HomePage = () => {
         <div className="col-6">
           <img
             className="homepage-logo-img"
-            src="/images/seller.jpeg"
+            src="/images/favorite.png"
             alt="logo"
           />
         </div>

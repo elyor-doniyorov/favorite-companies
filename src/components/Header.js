@@ -12,7 +12,7 @@ function Header() {
           <ArrowBackIosIcon className="back" />
         </Link>
       </div>
-      <div className="header-title">TOP SELLERS</div>
+      <div className="header-title">FAVORITE COMPANIES</div>
       <div>
         <MicIcon className="Heade-icons" />
         <SettingsIcon className="Heade-icons" />

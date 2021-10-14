@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://eager-pare-cfd7fe.netlify.app)
 
 ## Video
 

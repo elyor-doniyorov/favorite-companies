@@ -25,7 +25,7 @@
 
 ## Video
 
-[Project Overview]()
+[Project Overview](https://www.loom.com/share/d14a7fe3ebb74b298521a0644e683a10)
 
 ## Getting Started
 

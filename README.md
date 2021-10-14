@@ -5,10 +5,10 @@
 ## Project screenshots:
 
 #### 1. HomePage page
-![HomePage]()
+![HomePage](./images/HomePage.png)
 
 #### 2. DetailsPage page
-![DetailsPage]()
+![DetailsPage](./images/DetailsPage.png)
 
 ## Built With
 

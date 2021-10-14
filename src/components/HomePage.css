@@ -1,0 +1,37 @@
+.homepage-logo {
+  background-color: #d1447a;
+}
+
+.homepage-logo-text {
+  text-align: right;
+  color: white;
+  padding-top: 70px;
+  line-height: 0%;
+}
+
+.homepage-logo-img {
+  padding-left: 30px;
+  margin-left: 100px;
+  padding-top: 30px;
+  margin-bottom: 20px;
+  width: 150px;
+  opacity: 0.3;
+}
+
+.top {
+  font-style: italic;
+}
+
+.seller-container {
+  box-sizing: border-box;
+}
+
+.seller-info {
+  height: 200px;
+}
+
+.home-sub-title {
+  padding-left: 30px;
+  color: white;
+  background-color: #db4681;
+}

@@ -37,3 +37,16 @@ exports[`check if all component are rendered renders correctly 1`] = `
   />
 </div>
 `;
+
+exports[`check if all component are rendered renders correctly 2`] = `
+<a
+  href="/"
+  onClick={[Function]}
+>
+  <img
+    alt="logo"
+    className="homepage-logo-img"
+    src="/images/favorite.png"
+  />
+</a>
+`;

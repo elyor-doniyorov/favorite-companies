@@ -39,6 +39,7 @@
 - Run `npm install`
 - Run `npm run build`
 - Run `npm run start` to launch the server.
+- Run `npm run test` to test.
 
 ## Authors
 

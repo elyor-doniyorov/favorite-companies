@@ -23,7 +23,7 @@ const HomePage = () => {
           />
         </div>
         <div className="col-6 homepage-logo-text">
-          <h2>Visit Big sellers online</h2>
+          <h2>Visit Top Companies online</h2>
           <p className="top">Top 100</p>
         </div>
       </div>

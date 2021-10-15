@@ -1,0 +1,10 @@
+.seller-name {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: x-large;
+  font-style: italic;
+}
+
+.details-container {
+  padding: 10px;
+  text-align: justify;
+}

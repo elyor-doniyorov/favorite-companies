@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.seller-name {
+  font-size: large;
+  font-weight: bolder;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.seller-price,
+.seller-exchange {
+  font-size: 14px;
+}
+
+.arrow-forward {
+  color: white;
+  border: 1px solid white;
+  border-radius: 50%;
+}
+
+.seller-info {
+  height: 100%;
+}
+
+.seller-card {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 10px;
+  color: white;
+  border: 1px solid gray;
+}
+
+.seller-main-info {
+  padding-top: 60px;
+  line-height: 3px;
+}
+
+.seller-card:nth-child(odd) {
+  background-color: #db4681;
+}
+
+.seller-card:nth-child(even) {
+  background-color: #d1447a;
+}

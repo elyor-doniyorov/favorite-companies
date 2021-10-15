@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`check if all component are rendered renders correctly 1`] = `
+<div>
+  <div
+    className="row homepage-logo"
+  >
+    <div
+      className="col-6"
+    >
+      <img
+        alt="logo"
+        className="homepage-logo-img"
+        src="/images/favorite.png"
+      />
+    </div>
+    <div
+      className="col-6 homepage-logo-text"
+    >
+      <h2>
+        Visit Top Companies online
+      </h2>
+      <p
+        className="top"
+      >
+        Top 100
+      </p>
+    </div>
+  </div>
+  <div
+    className="row home-sub-title"
+  >
+    START BY SELLER
+  </div>
+  <div
+    className="seller-container row"
+  />
+</div>
+`;
+
+exports[`check if all component are rendered renders correctly 2`] = `
+<a
+  href="/"
+  onClick={[Function]}
+>
+  <img
+    alt="logo"
+    className="homepage-logo-img"
+    src="/images/favorite.png"
+  />
+</a>
+`;

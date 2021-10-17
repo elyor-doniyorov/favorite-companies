@@ -1,6 +1,6 @@
 # Favorite Companies
 
-## The React Web App uses Financial modeling prep API to retrieve top sellers all over the world and allow users to get detailed information on each one.
+## This React Web Application uses Financial modeling prep API to retrieve top sellers all over the world and allow users to get detailed information on each one.
 
 ## Project screenshots:
 
